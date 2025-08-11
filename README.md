@@ -33,6 +33,6 @@ The dataset includes:
 - Designed an interactive Tableau dashboard with KPIs, trends, and cluster filters.
 
 ## Results
-📄 [Full Report (PDF)](Nike_Sales_Analytics.pdf)  
+📄 [Full Report (PDF)](https://github.com/thaisamador/Nike-Sales-Analytics/blob/main/Report%20Nike%20Sales%20Analytics.pdf)  
 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/tha.s.amador5118/viz/shared/WWD4HKT6N)
 
